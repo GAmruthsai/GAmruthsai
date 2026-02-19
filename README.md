@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Amruth Sai Guggilla 👋
 
-<!--
-**GAmruthsai/GAmruthsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing an MSc in Big Data Analytics in the UK. My work focuses on data cleaning, exploratory analysis, KPI reporting, and dashboard development.
 
-Here are some ideas to get you started:
+I enjoy working with structured datasets and building clear, decision-ready insights from complex data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Programming**
+- Python (pandas, NumPy, scikit-learn)
+- SQL
+- R (basic)
+
+**Data Visualisation**
+- Tableau
+- Power BI
+- Excel
+
+**Analytics**
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Trend Analysis
+- KPI Reporting
+- Model Evaluation
+
+---
+
+## Projects
+
+- London Crime Data Analysis
+- Credit Card Fraud Detection
+- Delivery Metrics Dashboard (Engineering Analytics)
+
+📍 Watford, UK  
+📧 amruthsaichikku@gmail.com
